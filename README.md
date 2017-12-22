@@ -59,7 +59,7 @@ python /root/MS17-010/eternalblue_exploit7.py 192.168.*.** /root/MS17-010/bin/sc
 ```
 
 
-# Diclaimer
+# Disclaimer
 Do not use this on systems unless you have been given explicit permission. 
 This is created for use in the PWK labs and OSCP exam lab. 
 It may have unpreceedented consequenses both legally and ethically if used inappropriately. 
