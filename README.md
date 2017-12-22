@@ -12,8 +12,7 @@ It is necessary to work with raw Assembly language, shellcode for multiple archi
 What I have created a very handy bash script which will do all of the hard work for you and also gives instructions on how to exploit.
 
 ## Why create this ?
-Because knowing how the exploit works is a lot more fun that firing up metasploit as well as that I created this out of necessity for the PWK course
-and the OSCP certification. Those of you undertaking either will be well aware of the fact that Metasploit is extremely limited during exam time, so this 
+Because knowing how the exploit works is a lot more fun that firing up metasploit as well as that I created this out of necessity for the [PWK course](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/) and the [OSCP certification](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)  . Those of you undertaking either will be well aware of the fact that Metasploit is extremely limited during exam time, so this 
 exploit offers you a very fast reliable and allowed way to exploit any targets with port 445,139 open that are vulnerable.
 
 My generation script will output 2 files that can be read into msfconsole by using the -r flag (msfconsole -r /root/EternalBlueX64.rc), so you dont have to keep typing out 
